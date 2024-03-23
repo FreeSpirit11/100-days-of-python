@@ -24,7 +24,7 @@ In this adventure game, you will make a series of choices that will determine yo
 
 ```python
 # Example gameplay
-$ python treasure_island.py
+$ python main.py
 [Game starts]
 You're at a crossroad. Where do you want to go? Type "left" or "right"
 [left]
