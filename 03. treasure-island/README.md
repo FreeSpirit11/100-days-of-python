@@ -9,7 +9,7 @@ In this adventure game, you will make a series of choices that will determine yo
 
 ## Getting Started
 
-1. Run the provided Python script (`treasure_island.py`).
+1. Run the provided Python script (`main.py`).
 2. Follow the prompts to make choices at various points in the game.
 3. Read the outcome of your choices and continue until you find the treasure or meet a game over condition.
 
@@ -33,6 +33,7 @@ You've come to a lake. There is an island in the middle of the lake. Type "wait"
 You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow, and one blue. Which color do you choose?
 [yellow]
 Congratulations! You found the treasure! You win!
+```
 
 ## Acknowledgments
-This project is inspired by the #100DaysOfCode challenge by Angela Yu. Special thanks to the community for their support and contributions.
+This project is inspired by the #100DaysOfCode challenge by Angela Yu.
