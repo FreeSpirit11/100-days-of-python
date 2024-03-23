@@ -1,6 +1,7 @@
 # Higher Lower Website
 
 ![Game Preview](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)
+
 Welcome to the Higher Lower Website, a simple and entertaining number guessing game! Try to guess the random number between 0 and 9.
 
 ## How to Play
