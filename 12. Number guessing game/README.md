@@ -20,12 +20,18 @@ To run the Number Guessing Game, you will need the following:
 
 ## Getting Started
 
+To get started with the Blackjack Game, follow these steps:
+
 1. Clone the repository:
    ```shell
-   git clone https://github.com/FreeSpirit11/number-guessing-game.git
-2. Run the game:
+   git clone https://github.com/FreeSpirit11/100-days-of-python.git
+2.Navigate to the "12. Number\ guessing\ game" folder:
    ```shell
-   python number_guessing_game.py
+cd 100-days-of-python/12. Number\ guessing\ game
+   ```
+3. Run the main.py file:
+   ```shell
+   python main.py
 
 ## File Structure
 The repository consists of the following files:
