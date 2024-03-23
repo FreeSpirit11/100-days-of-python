@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+</head>
+<body>
+  <form action="{{ url_for('guess') }}" method="post">
+    <h1 class="h3 mb-3 fw-normal">Please Enter your name.</h1>
+    <div class="container">
+        <label >Name</label>
+        <input placeholder="name" name="username">
+    </div>
+    <button type="submit" >ok</button>
+    <p >© Copyright {{year}}. Built by Mansi.</p>
+  </form>
+</body>
+</html>
