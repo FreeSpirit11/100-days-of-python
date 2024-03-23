@@ -4,9 +4,7 @@
 
 Quizzler is a fun and interactive quiz application developed in Python using Tkinter GUI. It fetches trivia questions from the Open Trivia API, allowing users to answer questions on various topics and test their knowledge.
 
-
-Uploading quizzzler.mp4…
-
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/d6f306ec-56fb-4b52-a1bd-051e0ca7991f
 
 ## File Structure
 
@@ -46,7 +44,7 @@ Make sure you have the following modules installed:
 - [Python](https://www.python.org/downloads/) (3.6 or higher)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) (usually included with Python)
 
-## Installation
+## Installation 
 
 1. Clone the repository to your local machine:
    ```shell
@@ -59,16 +57,6 @@ Make sure you have the following modules installed:
    ```shell
    python main.py
    ```
-
-## Usage
-
-Run the application with the following command:
-
-```bash
-python main.py
-```
-
-Follow the on-screen instructions and enjoy testing your knowledge!
 
 ## Contributing
 
