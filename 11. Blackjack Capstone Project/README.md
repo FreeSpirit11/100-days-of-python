@@ -33,9 +33,9 @@ To get started with the Blackjack Game, follow these steps:
 1. Clone the repository:
    ```shell
    git clone https://github.com/FreeSpirit11/100-days-of-python.git
-2.Navigate to the "10.Calculator" folder:
+2.Navigate to the "11. Blackjack Capstone Project" folder:
    ```shell
-cd 100-days-of-python/10.Blackjack\ Capstone\ Project
+cd 100-days-of-python/11.\ Blackjack\ Capstone\ Project
    ```
 3. Run the main.py file:
    ```shell
