@@ -2,12 +2,14 @@ import requests
 import datetime as dt
 from twilio.rest import Client
 
-account_sid = 'AC7f8efff16c7175a063e869b27fc0ff03'
-auth_token = '6217de664ab2a17ba1e3957b31221e81'
+TWILIO_PHONE_NUM = 'YOUR_TWILIO_PHONE_NUM'
+RECEIVER_NUM = 'YOUR_PHONE_NUM'
+account_sid = 'YOUR_ACCOUNT_SID'
+auth_token = 'YOUR_AUTH_TOKEN'
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
-STOCK_API_KEY="29WRHFUERRMPIMKV"
-NEWS_API_KEY="a5b746556e2a4beda1c44e45529c1193"
+STOCK_API_KEY="YOUR_STOCK_API_KEY"
+NEWS_API_KEY="YOUR_NEWS_API_KEY"
 STOCK_PARAMETERS={
     "function":"TIME_SERIES_DAILY_ADJUSTED",
     "symbol":STOCK,
@@ -54,18 +56,8 @@ if abs(percentage_change_in_stock_price)>10:
         client = Client(account_sid, auth_token)
         message = client.messages.create(
                 body=f"{STOCK}: {arrow}{abs(percentage_change_in_stock_price)}%\n\nHeadline: {news_title}\n\nBrief: {news_description}\nurl: {news_url}",
-                from_='+12542805765',
-                to='+919399076738'
+                from_=TWILIO_PHONE_NUM,
+                to=RECEIVER_NUM
             )
 
-#Optional: Format the SMS message like this: 
-"""
-TSLA: 🔺2%
-Headline: Were Hedge Funds Right About Piling floato Tesla Inc. (TSLA)?. 
-Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
-or
-"TSLA: 🔻5%
-Headline: Were Hedge Funds Right About Piling floato Tesla Inc. (TSLA)?. 
-Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
-"""
 
