@@ -32,4 +32,4 @@ Each person needs to pay: 33.6
 6. Follow the on-screen instructions to enter the bill amount and the number of people.
 
 ## Acknowledgments
-This project is inspired by the #100DaysOfCode challenge by Angela Yu. Special thanks to the community for their support and contributions.
+This project is inspired by the #100DaysOfCode challenge by Angela Yu. 
