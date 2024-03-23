@@ -18,11 +18,7 @@ In this Python-based game, you will make your choice (rock, paper, or scissors) 
 - main.py: Contains the Python code for the Rock, Paper, Scissors game.
 
 ## Example Usage
-$ python main.py
-Welcome to the Rock, Paper, Scissors Game!
-Make your choice: rock
-Computer's choice: scissors
-You win!
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/d840ea8a-6db9-4414-b008-1930696425f1
 
 ## Acknowledgments
 This project is developed as a part of the #100DaysOfCode challenge by Angela Yu.
