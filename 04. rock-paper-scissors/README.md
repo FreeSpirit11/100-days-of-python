@@ -2,6 +2,8 @@
 
 Welcome to the Rock, Paper, Scissors Game! This project allows you to play the classic game of Rock, Paper, Scissors against the computer.
 
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/d840ea8a-6db9-4414-b008-1930696425f1
+
 ## Game Overview
 In this Python-based game, you will make your choice (rock, paper, or scissors) and compete against the computer's choice. The game follows the basic rules where rock smashes scissors, scissors cuts paper, and paper covers rock.
 
@@ -16,9 +18,6 @@ In this Python-based game, you will make your choice (rock, paper, or scissors) 
 
 ## File Structure
 - main.py: Contains the Python code for the Rock, Paper, Scissors game.
-
-## Example Usage
-https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/d840ea8a-6db9-4414-b008-1930696425f1
 
 ## Acknowledgments
 This project is developed as a part of the #100DaysOfCode challenge by Angela Yu.
