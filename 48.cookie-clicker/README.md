@@ -42,13 +42,28 @@ The script navigates to the Cookie Clicker game hosted at [https://orteil.dashne
 - It utilizes the Chrome WebDriver for browser automation.
 - Make sure to have a stable internet connection during script execution.
 
+## Configuration
+
+You can adjust the script's behavior by modifying variables like `five_min` (the duration of automation) and in-game item selection logic.
+
+```python
+# Customize the duration of automation (in seconds)
+five_min = time.time() + 60
+
+# Add or modify logic for in-game item selection
+# Example:
+# can_buy = {}
+# for item in store:
+#     item_money = int(item.text.split("-")[1].replace(",",""))
+#     if current_money > item_money:
+#         can_buy[item_money] = item
+# can_buy[max(can_buy)].click()
+```
+
 ## Acknowledgements
 
 This project is inspired by the Cookie Clicker game and aims to showcase the capabilities of Selenium for web automation.
 
 ## Author
 
-Created by [Mansi Yadav]
-
----
-Automate your way to cookie-clicking victory with ease using this Selenium script! 
+- [Mansi Yadav](https://github.com/FreeSpirit11/automated-game-playing-bot)
