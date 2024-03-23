@@ -2,6 +2,10 @@
 
 This project is a Flask application that allows users to add and view cafes. Users can submit details about cafes, such as their name, location, opening and closing times, and ratings for coffee quality, wifi strength, and power socket availability.
 
+
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/2e7c0852-b941-4fbd-ad7b-74af956625b6
+
+
 ## Installation
 
 1. Clone the repository:
