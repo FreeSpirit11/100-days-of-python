@@ -2,6 +2,10 @@
 
 This web application allows users to input their name and get predicted information about their gender and age based on their name. It utilizes the Genderize and Agify APIs to provide these predictions.
 
+
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/6a5ea517-48a7-4479-b458-702fe436d4ee
+
+
 ## Features
 
 - Users can input their name into a form.
