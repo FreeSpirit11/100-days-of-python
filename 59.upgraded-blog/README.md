@@ -13,7 +13,7 @@ https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/e3dde6dc-bbd
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/FreeSpirit11/100-days-of-python/new/main/59.upgraded-blog`
+1. Clone this repository: `git clone https://github.com/FreeSpirit11/100-days-of-python/59.upgraded-blog`
 2. Install the required dependencies listed in `requirements.txt`.
 3. Obtain an SMTP server (e.g., Gmail) and update the `my_email` and `password` variables in `main.py` with your email credentials.
 4. Run the Flask application by executing `python main.py`.
