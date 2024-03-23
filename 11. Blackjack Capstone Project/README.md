@@ -2,6 +2,10 @@
 
 Welcome to the Python Blackjack Game! This program allows you to play the classic card game of Blackjack against the computer.
 
+
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/90af0446-4641-4df8-ac42-bff30fd79a63
+
+
 ## How to Play
 
 1. Run the program to start a new game.
@@ -24,12 +28,18 @@ You will need the following software to run the BlackJack Game:
 
 ## Getting Started
 
+To get started with the Blackjack Game, follow these steps:
+
 1. Clone the repository:
    ```shell
-   git clone https://github.com/FreeSpirit11/blackjack-game.git
-   
-2.Run the blackjack.py file:
-- python blackjack.py
+   git clone https://github.com/FreeSpirit11/100-days-of-python.git
+2.Navigate to the "10.Calculator" folder:
+   ```shell
+cd 100-days-of-python/10.Blackjack\ Capstone\ Project
+   ```
+3. Run the main.py file:
+   ```shell
+   python main.py
 
 ## File Structure
 
@@ -41,7 +51,7 @@ You will need the following software to run the BlackJack Game:
 
 ## Acknowledgments
 
-This project is inspired by the #100DaysOfCode challenge by Angela Yu. Special thanks to the community for their support and contributions.
+This project is inspired by the #100DaysOfCode challenge by Angela Yu. 
 
 Enjoy playing the Python Blackjack Game!
 
