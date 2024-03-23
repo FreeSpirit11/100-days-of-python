@@ -1,7 +1,8 @@
 # Python Snake Game
 
 Welcome to the Python Snake Game! Control the snake, eat food, and avoid collisions to achieve the highest score.
-<img width="529" alt="Screenshot 2023-12-25 at 3 15 43 PM" src="https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/110c060e-61b2-4e60-9b2c-425b82623fd7">
+
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/cb625f2d-f3b9-481b-87dd-521f45c6c3a4
 
 ## How to Play
 
