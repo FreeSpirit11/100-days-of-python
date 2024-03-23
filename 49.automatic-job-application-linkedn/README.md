@@ -2,6 +2,8 @@
 
 Automate job applications on LinkedIn using Selenium. This Python script signs in, searches for jobs, and applies for them, simplifying the job hunting process.
 
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/570c7a69-1729-48cc-a1b7-98546c38d288
+
 ## Getting Started
 
 Follow these steps to set up and run the script on your machine.
