@@ -1,4 +1,3 @@
-```markdown
 # Quizzler (Open Trivia API)
 
 ## Introduction
@@ -85,4 +84,3 @@ Contributions are welcome! If you find any issues or want to add new features, f
 - [Mansi Yadav](https://github.com/FreeSpirit11)
   
 Now you can explore the world of trivia with Quizzler! 
-```  
