@@ -12,11 +12,21 @@ https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/51354e05-9dc
 - Python 3.x
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/FreeSpirit11/tkinter-distance-converter.git`
-2. Run the script: `python main.py`
-3. Enter the distance in the entry field.
-4. Click the "Calculate" button to see the converted result.
-5. The converted distance will be displayed in the "is equal to" section.
+
+1. Clone the repository to your local machine:
+   ```shell
+   git clone https://github.com/FreeSpirit11/100-days-of-python.git
+   ```
+
+2. Navigate to the directory containing the project files.
+
+3. Run the "main.py" file using Python:
+   ```shell
+   python main.py
+   ```
+4. Enter the distance in the entry field.
+5. Click the "Calculate" button to see the converted result.
+6. The converted distance will be displayed in the "is equal to" section.
 
 ## Acknowledgement
 Special thanks to Angela Yu for her inspiring #100DaysofCode challenge, which motivated and guided me throughout this project.
