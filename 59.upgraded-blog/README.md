@@ -47,3 +47,6 @@ https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/e3dde6dc-bbd
 
 ## Acknowledgements
 
+This project is a part of the "100 Days of Code" challenge by Angela Yu.
+
+
