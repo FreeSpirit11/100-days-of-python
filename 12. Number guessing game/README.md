@@ -25,9 +25,9 @@ To get started with the Blackjack Game, follow these steps:
 1. Clone the repository:
    ```shell
    git clone https://github.com/FreeSpirit11/100-days-of-python.git
-2.Navigate to the "12. Number\ guessing\ game" folder:
+2.Navigate to the "12.\ Number\ guessing\ game" folder:
    ```shell
-cd 100-days-of-python/12. Number\ guessing\ game
+cd 100-days-of-python/12.\ Number\ guessing\ game
    ```
 3. Run the main.py file:
    ```shell
