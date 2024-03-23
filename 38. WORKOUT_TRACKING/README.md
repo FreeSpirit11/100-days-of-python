@@ -1,4 +1,4 @@
-## Habit Tracker - Calorie and Exercise Logger
+## Workout Tracker - Calorie and Exercise Logger
 
 This Python script enables you to track daily exercises and calories consumed using the Nutritionix API and log them to a Google Sheet.
 
