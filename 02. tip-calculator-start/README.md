@@ -1,30 +1,35 @@
-# Rock, Paper, Scissors Game
+# Tip Calculator
 
-Welcome to the Rock, Paper, Scissors Game! This project allows you to play the classic game of Rock, Paper, Scissors against the computer.
+Welcome to the Bill Splitting Calculator! This Python script helps you calculate how much each person needs to pay when splitting a bill among a group of people.
 
-## Game Overview
-In this Python-based game, you will make your choice (rock, paper, or scissors) and compete against the computer's choice. The game follows the basic rules where rock smashes scissors, scissors cuts paper, and paper covers rock.
+## How It Works
 
-## Getting Started
-1. Clone or download this folder to your local machine.
-2. Ensure you have Python 3.x installed.
-3. Open the terminal or command prompt and navigate to the folder containing the game files.
-4. Run the game using the following command: `python main.py`
-5. Follow the on-screen instructions to play the game.
-6. Make your choice by typing 'rock', 'paper', or 'scissors' and press Enter.
-7. The computer will make its choice, and the winner will be displayed.
-
-## File Structure
-- main.py: Contains the Python code for the Rock, Paper, Scissors game.
+1. Run the script.
+2. Enter the total bill amount when prompted.
+3. Enter the number of people sharing the bill when prompted.
+4. The script calculates how much each person needs to pay and displays the result.
 
 ## Example Usage
+
+```python
 $ python main.py
-Welcome to the Rock, Paper, Scissors Game!
-Make your choice: rock
-Computer's choice: scissors
-You win!
+Enter the bill amount: 150.00
+Enter the number of people: 5
+Each person needs to pay: 33.6
+```
+
+## Requirements
+
+- Python 3.x
+
+## Getting Started
+
+1. Clone or download the script to your local machine.
+2. Make sure you have Python installed.
+3. Open a terminal or command prompt.
+4. Navigate to the directory containing the script.
+5. Run the script using the command `python main.py`.
+6. Follow the on-screen instructions to enter the bill amount and the number of people.
 
 ## Acknowledgments
-This project is developed as a part of the #100DaysOfCode challenge by Angela Yu.
-
-Enjoy playing the Rock, Paper, Scissors Game!
+This project is inspired by the #100DaysOfCode challenge by Angela Yu. Special thanks to the community for their support and contributions.
