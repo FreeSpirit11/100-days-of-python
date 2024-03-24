@@ -1,9 +1,10 @@
+
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/7bc9eac4-520a-48fc-8a53-5addd501b548
 # Flask Blog
 
 This is a Flask web application for creating and managing blog posts. Users can register, log in, create, edit, and delete blog posts. The application also allows users to leave comments on posts and includes a contact form for sending messages to the administrator.
 
-
-Uploading 69.Final-blog-site.mov…
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/a84a3239-2077-4699-9fd3-239eefda3151
 
 
 ## Features
@@ -53,4 +54,6 @@ Uploading 69.Final-blog-site.mov…
 - WTForms: Forms validation and rendering library for Flask.
 - Werkzeug: WSGI utility library for Python.
 
+## Acknowledgements
 
+This project is a part of the "100 Days of Code" challenge by Angela Yu.
