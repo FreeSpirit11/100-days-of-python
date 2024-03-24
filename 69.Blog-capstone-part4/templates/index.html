@@ -44,7 +44,7 @@
       {% endfor %}
 
       <!-- New Post -->
-      {% if current_user.id == 1 %}
+      {% if current_user.is_authenticated %}
 
       <div class="d-flex justify-content-end mb-4">
         <a
