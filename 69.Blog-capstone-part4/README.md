@@ -2,6 +2,10 @@
 
 This is a Flask web application for creating and managing blog posts. Users can register, log in, create, edit, and delete blog posts. The application also allows users to leave comments on posts and includes a contact form for sending messages to the administrator.
 
+
+Uploading 69.Final-blog-site.mov…
+
+
 ## Features
 
 - **User Authentication**: Users can register, log in, and log out. Passwords are securely hashed before being stored in the database.
@@ -21,7 +25,7 @@ This is a Flask web application for creating and managing blog posts. Users can 
 4. Set up environment variables for email configuration (`EMAIL_KEY` and `PASSWORD_KEY`) if using the contact form feature.
 5. Run the application:
    ```
-   python app.py
+   python main.py
    ```
 6. Access the application in your web browser at `http://localhost:5002`.
 
@@ -49,10 +53,4 @@ This is a Flask web application for creating and managing blog posts. Users can 
 - WTForms: Forms validation and rendering library for Flask.
 - Werkzeug: WSGI utility library for Python.
 
-## Credits
 
-This project is based on the Flask Mega-Tutorial by Miguel Grinberg and has been extended to include additional features such as comments and a contact form.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
