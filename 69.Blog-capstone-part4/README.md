@@ -1,5 +1,3 @@
-
-https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/7bc9eac4-520a-48fc-8a53-5addd501b548
 # Flask Blog
 
 This is a Flask web application for creating and managing blog posts. Users can register, log in, create, edit, and delete blog posts. The application also allows users to leave comments on posts and includes a contact form for sending messages to the administrator.
