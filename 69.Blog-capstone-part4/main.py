@@ -85,7 +85,7 @@ def admin_only(f):
     @wraps(f)
     @login_required
     def decorated_function(*args, **kwargs):
-        if current_user.id != 1:
+        if current_user.is_authenticated :
             return abort(403)
         #Otherwise continue with the route function
         return f(*args, **kwargs)
