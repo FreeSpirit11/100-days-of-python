@@ -2,9 +2,7 @@
 
 This is a simple Flask application that allows users to create, edit, view, and delete blog posts. Users can write blog posts using the CKEditor for rich text formatting.
 
-
-https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/8283f8a2-2d45-411d-b9f8-b9d87a946604
-
+https://github.com/FreeSpirit11/100-days-of-python/assets/139609682/a98e64f8-8c37-4055-b960-8f21d5b5c37d
 
 ## Installation
 
